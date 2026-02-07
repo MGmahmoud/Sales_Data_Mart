@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Informatica local files
+*.log
+*.cache
+*.lck
+
+# Power BI
+*.pbix~
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+tmp/
+temp/
